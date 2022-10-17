@@ -3,7 +3,7 @@
 #### You can run multiple applications on same server, either by using Virtual Machines, but the problem arised is we had to create different VM and different OS for all the applications assigning some Memory and much more. 
 
 ## **Difference between Virtual Machines and Containers**
-
+#### Some of the differences are as follows :
 ## **Virtual Machine**
 #### It runs on top of an emulating software called the hypervisor which sit between the hardware and the virtual machine. The hypervisor is the key to enable virtualization. It manages the sharing of physical resources into virtual machines. Each virtual machine runs its own guest operating system. They are less agile and have low portability than containers.
 
